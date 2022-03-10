@@ -1,0 +1,8 @@
+INSERT INTO Products VALUES ("C01",’Samsung Galaxy S20’,’Smartphone’,3299); 
+INSERT INTO Products VALUES ("C02",’Asus Notebook’,’PC’,4599);
+
+INSERT INTO Customer VALUES ("C01",’Ali’,71321009); 
+INSERT INTO Customer VALUES("C02",’Asma’,77345823);
+
+INSERT INTO Orders VALUES ("C01","P01",NULL,2,9198);
+INSERT INTO Orders VALUES ("C02","P02","28/05/2020",1,3299);
